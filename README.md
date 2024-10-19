@@ -1,9 +1,8 @@
 ## Hola 👋
 
 
+![Coding](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-### 👨‍💻 Un Poco sobre Mí
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 
 
