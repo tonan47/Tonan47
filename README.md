@@ -19,10 +19,10 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
+<br>
+<br>
 
-
-
-
+<br>
 
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonan47&layout=compact&theme=radical)
 
