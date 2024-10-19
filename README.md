@@ -2,7 +2,8 @@
 
 
 ### 👨‍💻 Un Poco sobre Mí
-Soy un desarrollador apasionado por la tecnología y el aprendizaje constante. Actualmente, estoy mejorando mis habilidades en el desarrollo web y explorando nuevas herramientas. Aquí algunos datos sobre mí:
+Soy un desarrollador apasionado. Actualmente, estoy mejorando mis habilidades en el desarrollo web y explorando nuevas herramientas.
+Aquí algunos datos sobre mí:
 
 - 🌱 Aprendiendo sobre:
    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
