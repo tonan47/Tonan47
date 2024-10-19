@@ -1,5 +1,5 @@
 ## Hola 👋
-
+<br>
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -22,7 +22,6 @@
 <br>
 <br>
 
-<br>
 
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonan47&layout=compact&theme=radical)
 
@@ -43,8 +42,8 @@
 
 
 
-
-
+<br>
+<br>
 > "El único modo de hacer un gran trabajo es amar lo que haces." - Steve Jobs
 
 <!--
