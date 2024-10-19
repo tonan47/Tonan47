@@ -1,7 +1,20 @@
 ## Hola 👋
 
 
-![Coding](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+### 👨‍💻 Un Poco sobre Mí
+Soy un desarrollador apasionado por la tecnología y el aprendizaje constante. Actualmente, estoy mejorando mis habilidades en el desarrollo web y explorando nuevas herramientas. Aquí algunos datos sobre mí:
+
+- 🌱 Aprendiendo sobre:
+   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+   ![Java](https://img.shields.io/badge/-Java-D8B000?logo=java&logoColor=white)
+   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+- 🚀 Siempre en busca de nuevos retos para mejorar mis habilidades.
+
+
+
+
 
 
 
