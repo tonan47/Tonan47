@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hola 👋
 
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=radical)
 
 <!--
 **tonan47/Tonan47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
