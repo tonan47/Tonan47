@@ -3,6 +3,7 @@
 
 ### 👨‍💻 Un Poco sobre Mí
 Soy un desarrollador apasionado. Actualmente, estoy mejorando mis habilidades en el desarrollo web y explorando nuevas herramientas.
+<br>
 Aquí algunos datos sobre mí:
 
 - 🌱 Aprendiendo sobre:
