@@ -1,13 +1,5 @@
 ## Hola 👋
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Tonan47&show_icons=true&theme=radical)
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonan47&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=radical)
-
-
-
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -26,6 +18,20 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+
+
+
+
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonan47&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=radical)
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Tonan47&show_icons=true&theme=radical)
+
+
+
 
 
 
