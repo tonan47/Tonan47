@@ -2,9 +2,9 @@
 
 
 
-<br>
-<img src="URL_DE_TU_BANNER" alt="Banner Personalizado" width="100%" />
-<br>
+### 👨‍💻 Un Poco sobre Mí
+![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 
 
 <br>
