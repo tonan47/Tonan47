@@ -39,7 +39,7 @@
 
 
 
-<br>
+
 <br>
 > "El único modo de hacer un gran trabajo es amar lo que haces." - Steve Jobs
 
