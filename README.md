@@ -4,8 +4,9 @@
 
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonan47&layout=compact&theme=radical)
 
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=radical)
+
+> "El único modo de hacer un gran trabajo es amar lo que haces." - Steve Jobs
 
 <!--
 **tonan47/Tonan47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
