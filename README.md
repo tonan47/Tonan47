@@ -47,7 +47,6 @@ Here are some facts about me:
 
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=yellow)
 
 
 
