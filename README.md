@@ -26,9 +26,11 @@
 
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonan47&layout=compact&theme=radical)
 
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Tonan47&show_icons=true&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=radical)
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Tonan47&show_icons=true&theme=radical)
+
 
 
 
