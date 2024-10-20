@@ -35,7 +35,7 @@ Here are some facts about me:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonan47&layout=compact&theme=radical)
 
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tonan47&show_icons=true&theme=radical)
 
 
 
